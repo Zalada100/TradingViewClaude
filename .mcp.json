@@ -2,7 +2,7 @@
   "mcpServers": {
     "tradingview": {
       "command": "node",
-      "args": ["/root/tradingview-mcp-jackson/src/server.js"]
+      "args": ["C:\\Users\\yezaw\\tradingview-mcp-jackson\\src\\server.js"]
     }
   }
 }
